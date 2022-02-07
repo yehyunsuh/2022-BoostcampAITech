@@ -1,4 +1,16 @@
-# 2022-NaverAITech
+# 2022-BoostcampAITech
+
+Boostcamp AI Tech    
+Currently in CV(Computer Vision) Track and learning the basics of AI, DL, and CV.
+
+
+Week4: 
+[Day16](https://yehyunsuh.notion.site/Day16-2022-02-07-f84274cbe8fe4e9099b076eb94dbf5d4) 
+[Day17]() 
+[Day18]() 
+[Day19]() 
+[Day20]()   
+
 
 Week3: 
 Day11(설연휴) 
