@@ -8,8 +8,8 @@ Week4:
 [Day16](https://yehyunsuh.notion.site/Day16-2022-02-07-f84274cbe8fe4e9099b076eb94dbf5d4) 
 [Day17](https://yehyunsuh.notion.site/Day17-2022-02-08-99bc00d1ce1f49af834431d587c5a21a) 
 [Day18](https://yehyunsuh.notion.site/Day18-2022-02-09-107f00dd2f1c4c6b999c5dda7fd0cd39) 
-[Day19]() 
-[Day20]()   
+[Day19](https://yehyunsuh.notion.site/Day19-2022-02-10-592fd4035c5f4a34a61a9183a4b26059) 
+[Day20](https://yehyunsuh.notion.site/Day20-2022-02-11-52d62fe8ed404dc88c914e85ccf9bd4a)   
 
 
 Week3: 
