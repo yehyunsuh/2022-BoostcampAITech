@@ -8,7 +8,7 @@ Week5:
 [Day22](https://yehyunsuh.notion.site/Day22-2022-02-15-5b6a63c5363245418a1e022b1959add7) 
 [Day23](https://yehyunsuh.notion.site/Day23-2022-02-16-ca0a42ecb207456ba6bb9a8b06fac73b) 
 [Day24](https://yehyunsuh.notion.site/Day24-2022-02-17-f3e4719f90394148b4deee0039a1ae0b) 
-[Day25]()   
+[Day25](https://yehyunsuh.notion.site/Day25-2022-02-18-cc076dbe18654a5cba29c02f02122d53)   
 
 
 Week4: 
