@@ -4,8 +4,8 @@ Boostcamp AI Tech
 Currently in CV(Computer Vision) Track and learning the basics of Deep Learning and CV.
 
 Week6: 
-[Day31]() 
-[Day32]() 
+[Day31](https://yehyunsuh.notion.site/Day31-2022-02-28-3c6eea61187b4aac82da12e2e505a2e7) 
+[Day32](https://yehyunsuh.notion.site/Day32-2022-03-01-f4bf8c61208e4dccb741338adb1c2d3c) 
 [Day33]() 
 [Day34]() 
 [Day35]()   
