@@ -6,7 +6,7 @@ Currently in CV(Computer Vision) Track and learning the basics of Deep Learning 
 Week6: 
 [Day31](https://yehyunsuh.notion.site/Day31-2022-02-28-3c6eea61187b4aac82da12e2e505a2e7) 
 [Day32](https://yehyunsuh.notion.site/Day32-2022-03-01-f4bf8c61208e4dccb741338adb1c2d3c) 
-[Day33]() 
+[Day33](https://yehyunsuh.notion.site/Day33-2022-03-02-3738c0a4422a4edaa6d096ff9705fd6a) 
 [Day34]() 
 [Day35]()   
 
