@@ -7,8 +7,8 @@ Week6:
 [Day31](https://yehyunsuh.notion.site/Day31-2022-02-28-3c6eea61187b4aac82da12e2e505a2e7) 
 [Day32](https://yehyunsuh.notion.site/Day32-2022-03-01-f4bf8c61208e4dccb741338adb1c2d3c) 
 [Day33](https://yehyunsuh.notion.site/Day33-2022-03-02-3738c0a4422a4edaa6d096ff9705fd6a) 
-[Day34]() 
-[Day35]()   
+[Day34](https://yehyunsuh.notion.site/Day34-2022-03-03-4e12b432e2ac40a88f1ed361f4ba5ed2) 
+[Day35](https://yehyunsuh.notion.site/Day35-2022-03-04-2ece3d63496047208789080734267189)   
 
 Week6: 
 [Day26](https://yehyunsuh.notion.site/Day26-2022-02-21-bedc7b0e63a74176acea81666d08ae5b) 
