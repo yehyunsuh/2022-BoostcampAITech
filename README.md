@@ -3,7 +3,7 @@
 Boostcamp AI Tech(2022.01.17 - 2022.06.17)    
 - Currently in CV(Computer Vision👀) Track   
 - Learning the basics of Deep Learning and CV
-- Implementing the theories learned into projects
+- Implementing the theories learned into various projects
 - Participating in variety of team projects related to CV
 
 ## 🧑‍💻 Projects    
@@ -14,12 +14,18 @@ Boostcamp AI Tech(2022.01.17 - 2022.06.17)
 
 ## 🖥 Classes & Personal Notes
 ### Week8: Computer Vision    
-[Day40](https://yehyunsuh.notion.site/Day40-2022-03-11-d2aa2c4dff254f7c820121b18007294a) - No class      
+[Day45](https://yehyunsuh.notion.site/Day45-2022-03-18-1508793b2b984bcfa9e5d2def9739fb0) - Level2 2nd Mentoring       
+[Day44](https://yehyunsuh.notion.site/Day44-2022-03-17-985607eb8c5a4e9dbc2ff868c2cf473f) - Computer Vision 10. 3D Understanding | Paper Review(YOLACT)     
+[Day43](https://yehyunsuh.notion.site/Day43-2022-03-16-18ba6a9c39de4364b1bc73b1360be38e) - Computer Vision 9. Multi-Model Learning, Image Captioning    
+[Day42](https://yehyunsuh.notion.site/Day42-2022-03-15-2de2ae1a060247f1abc932cc0fc71db4) - Github Special Lecture    
+[Day41](https://yehyunsuh.notion.site/Day41-2022-03-14-d6d4f958d182402c8336a6c3002b6767) - Computer Vision 7-8. Instance/Panoptic Segmentation, Landmark Localization, Conditional Generative Model    
+
+### Week8: Computer Vision    
+[Day40](https://yehyunsuh.notion.site/Day40-2022-03-11-d2aa2c4dff254f7c820121b18007294a) - Level2 1st Mentoring       
 [Day39](https://yehyunsuh.notion.site/Day39-2022-03-10-e5909fe3ee1b4a29944efc3a9efe0209) - Computer Vision 6. CNN Visualization, AutoGrad    
-[Day38](https://yehyunsuh.notion.site/Day38-2022-03-09-a6a4b5017b0e497fbe96159d1063d126) - YOLOv1, YOLOv2    
+[Day38](https://yehyunsuh.notion.site/Day38-2022-03-09-a6a4b5017b0e497fbe96159d1063d126) - Paper Review(YOLOv1, YOLOv2)    
 [Day37](https://yehyunsuh.notion.site/Day37-2022-03-08-c5accc3565cd4931bb5f990c6c1a8a9c) - Computer Vision 4-5. Semantic Segmentation, Object Detection    
 [Day36](https://yehyunsuh.notion.site/Day36-2022-03-07-1ab9ff0a4b3c4883bbd1bfdd6e3cb2b1) - Computer Vision 1-3. Image Classification, Annotation, Data Efficient Learning    
-
 
 ### Week7: Image Classification Project    
 [Day35](https://yehyunsuh.notion.site/Day35-2022-03-04-2ece3d63496047208789080734267189) - Project Wrap Up Report(Korean)      
@@ -38,7 +44,7 @@ Boostcamp AI Tech(2022.01.17 - 2022.06.17)
 ### Week5: AI Service Deployment Basic    
 [Day25](https://yehyunsuh.notion.site/Day25-2022-02-18-cc076dbe18654a5cba29c02f02122d53) - Adding Noise(Gaussian, Salt&Pepper, Speckle)      
 [Day24](https://yehyunsuh.notion.site/Day24-2022-02-17-f3e4719f90394148b4deee0039a1ae0b) - No class    
-[Day23](https://yehyunsuh.notion.site/Day23-2022-02-16-ca0a42ecb207456ba6bb9a8b06fac73b) - Data Visualization    
+[Day23](https://yehyunsuh.notion.site/Day23-2022-02-16-ca0a42ecb207456ba6bb9a8b06fac73b) - Data Visualization | Paper Review(Visualization Methods)    
 [Day22](https://yehyunsuh.notion.site/Day22-2022-02-15-5b6a63c5363245418a1e022b1959add7) - AI Service Deployment 4-5. Docker, MLflow    
 [Day21](https://yehyunsuh.notion.site/Day-21-2022-02-14-69e986f9c3554c5abfb701bbabcbd951) - AI Service Deployment 1-3. Introduction, ML Project Life Cycle, Linux & Shell Command    
 
