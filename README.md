@@ -13,12 +13,19 @@ Boostcamp AI Tech(2022.01.17 - 2022.06.17)
 [Level1 - Pstage](https://github.com/justbeaver97/level1-image-classification-level1-cv-09)  - Image Classification (2022.02.21 - 2022.03.04)    
 
 ## 🖥 Classes & Personal Notes
-### Week10: Computer Vision    
-[Day45]() - Level2 2nd Mentoring       
-[Day44]() - Computer Vision 10. 3D Understanding | Paper Review(YOLACT)     
-[Day43]() - Computer Vision 9. Multi-Model Learning, Image Captioning    
-[Day42]() - Github Special Lecture    
-[Day41]() - Computer Vision 7-8. Instance/Panoptic Segmentation, Landmark Localization, Conditional Generative Model   
+### Week11: Object Detection Project    
+[Day55](https://yehyunsuh.notion.site/Day55-2022-04-01-e6c244dbcbd3417fb3e00b866fee3706) -        
+[Day54](https://yehyunsuh.notion.site/Day54-2022-03-31-eba47e60a2304223afedf400dafafbca) - Personal Mentoring | Paper Review(YOLOX)      
+[Day53](https://yehyunsuh.notion.site/Day53-2022-03-30-8616684c57ef493d93a728fefa6a55f7) - `mlflow`, Swint-T-L    
+[Day52](https://yehyunsuh.notion.site/Day52-2022-03-29-3f618a3d24cd4852b76bb70740335a15) - Object Detection 9-10. Competition Overview, Object Detection in Kaggle      
+[Day51](https://yehyunsuh.notion.site/Day51-2022-03-28-40805eda6b6e442483970bc8898e0eda) - Object Detection 7-8. Advanced Object Detection(Cascade R-CNN, Deformable, Swin-T, YOLOv4, M2Det, CornerNet)   
+
+### Week10: Object Detection Project    
+[Day50](https://yehyunsuh.notion.site/Day50-2022-03-25-96ac7d9bc3f44131b3d0d2d318fa69ad) - FiftyOne, Visualization of Inference file, `.git` file error, `git branch`       
+[Day49](https://yehyunsuh.notion.site/Day49-2022-03-24-0b0075a0b9784be48756684bf63e66c4) - Office Hour, split train/val data | Paper Review(DIoU, CIoU, DIoU-NMS)     
+[Day48](https://yehyunsuh.notion.site/Day48-2022-03-23-cfcb68a3511f4c2abad1df68725bb027) - Object Detection 5-6. 1 Stage Detectors, EfficientDet    
+[Day47](https://yehyunsuh.notion.site/Day47-2022-03-22-0e4a3f6c70204249a01e532241983c4b) - Object Detection 3-4. Object Detection Library, Neck    
+[Day46](https://yehyunsuh.notion.site/Day46-2022-03-21-525e3d96d94a43ce92df56c2b30c4331) - Object Detection 1-2. Overview, 2 Stage Detectors   
 
 ### Week9: Computer Vision    
 [Day45](https://yehyunsuh.notion.site/Day45-2022-03-18-1508793b2b984bcfa9e5d2def9739fb0) - Level2 2nd Mentoring       
