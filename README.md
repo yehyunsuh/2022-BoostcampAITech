@@ -13,12 +13,19 @@ Boostcamp AI Tech(2022.01.17 - 2022.06.17)
 [Level1 - Pstage](https://github.com/justbeaver97/level1-image-classification-level1-cv-09)  - Image Classification (2022.02.21 - 2022.03.04)    
 
 ## 🖥 Classes & Personal Notes
+### Week13: Data Creation
+[Day65](https://yehyunsuh.notion.site/Day65-2022-04-15-61cc755eb557404eb9e8a9e33b7fa5d5) -        
+[Day64](https://yehyunsuh.notion.site/Day64-2022-04-14-1ad2bc0da34c40bb85bf215559899233) - Level2 6th Mentoring, `wandb` | Paper Review(DeepLab v2)      
+[Day63](https://yehyunsuh.notion.site/Day63-2022-04-13-6e1b301f959c4c768a67a6eced442bf7) - Data Creation 5,7 - Introduction of Data, Performance Evaluation Method | `git rebase`    
+[Day62](https://yehyunsuh.notion.site/Day62-2022-04-12-a1da4e99e12749578e82671e42bd366f) - Data Creation 2-4 - Importance of Data Creation2, OCR Technology & Services, Text Detection      
+[Day61](https://yehyunsuh.notion.site/Day61-2022-04-11-323a2889985846a3ae01e921d7c220f2) - Data Creation 6,8,1 - Annotation Guide, Annotation Tool, Importance of Data Creation   
+
 ### Week12: Object Detection Project    
 [Day60](https://yehyunsuh.notion.site/Day60-2022-04-08-fbf5d815f61e4dec9b321fd5eaf07d51) - Project Wrap Up Report(Korean)       
 [Day59](https://yehyunsuh.notion.site/Day59-2022-04-07-7bde37f3e44445b2ab340103f1d7d1e2) - Level2 4th Mentoring | Paper Review(Weighted Boxes Fusion)      
 [Day58](https://yehyunsuh.notion.site/Day58-2022-04-06-c5fc34b91626423abab7870d824b0c89) - Evaluation by classes    
 [Day57](https://yehyunsuh.notion.site/Day57-2022-04-05-13fb908dcb3242d694b160985d194a60) - `No such file or directory: ‘tmp/tmpzyrlcgy7/tmp1c3d5x4ol.py’`      
-[Day56](https://yehyunsuh.notion.site/Day56-2022-04-04-299da08f2ab640068a0b3c7b429bd746) - `KeyError: "GFL: 'SEPC is not in the models registry'”`, BN instead of SyncBN in UniverseNet   
+[Day56](https://yehyunsuh.notion.site/Day56-2022-04-04-299da08f2ab640068a0b3c7b429bd746) - `KeyError: "GFL: 'SEPC is not in the models registry'”`, `BN` instead of `SyncBN` in UniverseNet   
 
 ### Week11: Object Detection Project    
 [Day55](https://yehyunsuh.notion.site/Day55-2022-04-01-e6c244dbcbd3417fb3e00b866fee3706) - split train/val data in object detection       
@@ -32,7 +39,7 @@ Boostcamp AI Tech(2022.01.17 - 2022.06.17)
 [Day49](https://yehyunsuh.notion.site/Day49-2022-03-24-0b0075a0b9784be48756684bf63e66c4) - Office Hour | Paper Review(DIoU, CIoU, DIoU-NMS)     
 [Day48](https://yehyunsuh.notion.site/Day48-2022-03-23-cfcb68a3511f4c2abad1df68725bb027) - Object Detection 5-6. 1 Stage Detectors, EfficientDet    
 [Day47](https://yehyunsuh.notion.site/Day47-2022-03-22-0e4a3f6c70204249a01e532241983c4b) - Object Detection 3-4. Object Detection Library, Neck    
-[Day46](https://yehyunsuh.notion.site/Day46-2022-03-21-525e3d96d94a43ce92df56c2b30c4331) - Object Detection 1-2. Overview, 2 Stage Detectors   
+[Day46](https://yehyunsuh.notion.site/Day46-2022-03-21-525e3d96d94a43ce92df56c2b30c4331) - Object Detection 1-2. Overview, 2 Stage Detectors | Remote Access    
 
 ### Week9: Computer Vision    
 [Day45](https://yehyunsuh.notion.site/Day45-2022-03-18-1508793b2b984bcfa9e5d2def9739fb0) - Level2 2nd Mentoring       
