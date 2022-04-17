@@ -9,12 +9,13 @@ Boostcamp AI Tech(2022.01.17 - 2022.06.17)
 ## 🧑‍💻 Projects    
 [Level3 - Pstage]()  - Product Serving(TBU)    
 [Level2 - Pstage]() - Semantic Segmentation(TBU)    
-[Level2 - Pstage]() - Object Detection(TBU)     
+[Level2 - Pstage]() - Data Annotation(TBU)    
+[Level2 - Pstage](https://github.com/justbeaver97/level2-object-detection-level2-cv-16) - Object Detection (2022.03.21 ~ 2022.04.08)     
 [Level1 - Pstage](https://github.com/justbeaver97/level1-image-classification-level1-cv-09)  - Image Classification (2022.02.21 - 2022.03.04)    
 
 ## 🖥 Classes & Personal Notes
 ### Week13: Data Creation
-[Day65](https://yehyunsuh.notion.site/Day65-2022-04-15-61cc755eb557404eb9e8a9e33b7fa5d5) -        
+[Day65](https://yehyunsuh.notion.site/Day65-2022-04-15-61cc755eb557404eb9e8a9e33b7fa5d5) - `ls -l | grep ^d | wc -l`, `ls -l | grep ^- | wc -l`       
 [Day64](https://yehyunsuh.notion.site/Day64-2022-04-14-1ad2bc0da34c40bb85bf215559899233) - Level2 6th Mentoring, `wandb` | Paper Review(DeepLab v2)      
 [Day63](https://yehyunsuh.notion.site/Day63-2022-04-13-6e1b301f959c4c768a67a6eced442bf7) - Data Creation 5,7 - Introduction of Data, Performance Evaluation Method | `git rebase`    
 [Day62](https://yehyunsuh.notion.site/Day62-2022-04-12-a1da4e99e12749578e82671e42bd366f) - Data Creation 2-4 - Importance of Data Creation2, OCR Technology & Services, Text Detection      
