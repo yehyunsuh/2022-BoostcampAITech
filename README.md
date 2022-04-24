@@ -14,6 +14,13 @@ Boostcamp AI Tech(2022.01.17 - 2022.06.17)
 [Level1 - Pstage](https://github.com/justbeaver97/level1-image-classification-level1-cv-09)  - Image Classification (2022.02.21 - 2022.03.04)    
 
 ## 🖥 Classes & Personal Notes
+### Week14: Data Creation
+[Day70](https://yehyunsuh.notion.site/Day70-2022-04-22-a670cc08d1384dbcbc7a8db4d1ca6425) - Project Wrap Up Report(Korean)       
+[Day69](https://yehyunsuh.notion.site/Day69-2022-04-21-228f9c3daf544c3e9a8baae62fd73a7a) - `git pull`      
+[Day68](https://yehyunsuh.notion.site/Day68-2022-04-20-4cb4e2f22544490b9a2e6da7d9008faf) - `cv2.minAreaRect()`    
+[Day67](https://yehyunsuh.notion.site/Day67-2022-04-19-c38f7b2848b04f64bfd629b2a508ad93) - `git stash`, `pre-commit run`      
+[Day66](https://yehyunsuh.notion.site/Day66-2022-04-18-9fc56a4b5f0345d49495e2832ea50284) - `git rebase` version 2   
+
 ### Week13: Data Creation
 [Day65](https://yehyunsuh.notion.site/Day65-2022-04-15-61cc755eb557404eb9e8a9e33b7fa5d5) - `ls -l | grep ^d | wc -l`, `ls -l | grep ^- | wc -l`       
 [Day64](https://yehyunsuh.notion.site/Day64-2022-04-14-1ad2bc0da34c40bb85bf215559899233) - Level2 6th Mentoring, `wandb` | Paper Review(DeepLab v2)      
