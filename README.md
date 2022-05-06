@@ -9,7 +9,7 @@ Boostcamp AI Tech(2022.01.17 - 2022.06.17)
 ## 🧑‍💻 Projects    
 [Level3 - Pstage]()  - Product Serving(TBU)    
 [Level2 - Pstage]() - Semantic Segmentation(TBU)    
-[Level2 - Pstage]() - Data Annotation(TBU)    
+[Level2 - Pstage](https://github.com/justbeaver97/level2-data-annotation_cv-level2-cv-16) - Data Annotation (2022.04.11 ~ 2022.04.22)    
 [Level2 - Pstage](https://github.com/justbeaver97/level2-object-detection-level2-cv-16) - Object Detection (2022.03.21 ~ 2022.04.08)     
 [Level1 - Pstage](https://github.com/justbeaver97/level1-image-classification-level1-cv-09)  - Image Classification (2022.02.21 - 2022.03.04)    
 
