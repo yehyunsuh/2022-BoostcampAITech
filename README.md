@@ -14,14 +14,35 @@ Boostcamp AI Tech(2022.01.17 - 2022.06.17)
 [Level1 - Pstage](https://github.com/justbeaver97/level1-image-classification-level1-cv-09)  - Image Classification (2022.02.21 - 2022.03.04)    
 
 ## 🖥 Classes & Personal Notes
-### Week14: Data Creation
+### Week17: Semantic Segmentation Project
+[Day85](https://yehyunsuh.notion.site/Day70-2022-04-22-a670cc08d1384dbcbc7a8db4d1ca6425) -        
+[Day84](https://yehyunsuh.notion.site/Day69-2022-04-21-228f9c3daf544c3e9a8baae62fd73a7a) -       
+[Day83](https://yehyunsuh.notion.site/Day68-2022-04-20-4cb4e2f22544490b9a2e6da7d9008faf) -     
+[Day82](https://yehyunsuh.notion.site/Day67-2022-04-19-c38f7b2848b04f64bfd629b2a508ad93) -       
+[Day81](https://yehyunsuh.notion.site/Day66-2022-04-18-9fc56a4b5f0345d49495e2832ea50284) - 
+
+### Week16: Semantic Segmentation Project
+[Day80](https://yehyunsuh.notion.site/Day70-2022-04-22-a670cc08d1384dbcbc7a8db4d1ca6425) -        
+[Day79](https://yehyunsuh.notion.site/Day69-2022-04-21-228f9c3daf544c3e9a8baae62fd73a7a) -       
+[Day78](https://yehyunsuh.notion.site/Day68-2022-04-20-4cb4e2f22544490b9a2e6da7d9008faf) -     
+[Day77](https://yehyunsuh.notion.site/Day67-2022-04-19-c38f7b2848b04f64bfd629b2a508ad93) -       
+[Day76](https://yehyunsuh.notion.site/Day66-2022-04-18-9fc56a4b5f0345d49495e2832ea50284) -    
+
+### Week15: Semantic Segmentation Project
+[Day75](https://yehyunsuh.notion.site/Day70-2022-04-22-a670cc08d1384dbcbc7a8db4d1ca6425) -        
+[Day74](https://yehyunsuh.notion.site/Day69-2022-04-21-228f9c3daf544c3e9a8baae62fd73a7a) -       
+[Day73](https://yehyunsuh.notion.site/Day68-2022-04-20-4cb4e2f22544490b9a2e6da7d9008faf) -     
+[Day72](https://yehyunsuh.notion.site/Day67-2022-04-19-c38f7b2848b04f64bfd629b2a508ad93) -       
+[Day71](https://yehyunsuh.notion.site/Day66-2022-04-18-9fc56a4b5f0345d49495e2832ea50284) -    
+
+### Week14: Data Annotation Project
 [Day70](https://yehyunsuh.notion.site/Day70-2022-04-22-a670cc08d1384dbcbc7a8db4d1ca6425) - Project Wrap Up Report(Korean)       
 [Day69](https://yehyunsuh.notion.site/Day69-2022-04-21-228f9c3daf544c3e9a8baae62fd73a7a) - `git pull`      
 [Day68](https://yehyunsuh.notion.site/Day68-2022-04-20-4cb4e2f22544490b9a2e6da7d9008faf) - `cv2.minAreaRect()`    
 [Day67](https://yehyunsuh.notion.site/Day67-2022-04-19-c38f7b2848b04f64bfd629b2a508ad93) - `git stash`, `pre-commit run`      
 [Day66](https://yehyunsuh.notion.site/Day66-2022-04-18-9fc56a4b5f0345d49495e2832ea50284) - `git rebase` version 2   
 
-### Week13: Data Creation
+### Week13: Data Annotation Project
 [Day65](https://yehyunsuh.notion.site/Day65-2022-04-15-61cc755eb557404eb9e8a9e33b7fa5d5) - `ls -l | grep ^d | wc -l`, `ls -l | grep ^- | wc -l`       
 [Day64](https://yehyunsuh.notion.site/Day64-2022-04-14-1ad2bc0da34c40bb85bf215559899233) - Level2 6th Mentoring, `wandb` | Paper Review(DeepLab v2)      
 [Day63](https://yehyunsuh.notion.site/Day63-2022-04-13-6e1b301f959c4c768a67a6eced442bf7) - Data Creation 5,7 - Introduction of Data, Performance Evaluation Method | `git rebase`    
