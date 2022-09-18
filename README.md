@@ -1,19 +1,20 @@
 # 2022-BoostcampAITech
 
 Boostcamp AI Tech(2022.01.17 - 2022.06.17)    
-- Currently in CV(Computer Vision👀) Track   
-- Learning the basics of Deep Learning and CV
-- Implementing the theories learned into various projects
-- Participating in variety of team projects related to CV
+- CV(Computer Vision👀) Track   
+- Acquired the fundamentals of Deep Learning and CV
+- Implemented the theories learned into various projects
+- Participated in variety of team projects related to CV
 
 ## 🧑‍💻 Projects    
-[Level3 - Pstage]()  - Product Serving(TBU)    
-[Level2 - Pstage]() - Semantic Segmentation(TBU)    
+[Level3 - Pstage](https://github.com/justbeaver97/final-project-level3-cv-16)  - Product Serving(2022.04.07 ~ 2022.06.10)    
+[Level2 - Pstage](https://github.com/justbeaver97/level2-semantic-segmentation-level2-cv-16) - Semantic Segmentation(2022.04.25 ~ 2022.05.12)    
 [Level2 - Pstage](https://github.com/justbeaver97/level2-data-annotation_cv-level2-cv-16) - Data Annotation (2022.04.11 ~ 2022.04.22)    
 [Level2 - Pstage](https://github.com/justbeaver97/level2-object-detection-level2-cv-16) - Object Detection (2022.03.21 ~ 2022.04.08)     
 [Level1 - Pstage](https://github.com/justbeaver97/level1-image-classification-level1-cv-09)  - Image Classification (2022.02.21 - 2022.03.04)    
 
 ## 🖥 Classes & Personal Notes
+<!--
 ### Week18: Product Serving Project
 [Day90](https://yehyunsuh.notion.site/Day90-2022-05-20-f9f3ec241758437485909c19484a292c) -        
 [Day89](https://yehyunsuh.notion.site/Day89-2022-05-19-fc855550bd1c41faae7dafc2781fd5fb) -       
@@ -41,7 +42,7 @@ Boostcamp AI Tech(2022.01.17 - 2022.06.17)
 [Day73](https://yehyunsuh.notion.site/Day73-2022-04-27-3a2be25b775247ebb08afb8449621dda) -     
 [Day72](https://yehyunsuh.notion.site/Day72-2022-04-26-4ef856dd66944320803b4c24497bfb75) -       
 [Day71](https://yehyunsuh.notion.site/Day71-2022-04-25-2fa8674ed428459f862a96bdcd7adad3) -    
-
+-->
 ### Week14: Data Annotation Project
 [Day70](https://yehyunsuh.notion.site/Day70-2022-04-22-a670cc08d1384dbcbc7a8db4d1ca6425) - Project Wrap Up Report(Korean)       
 [Day69](https://yehyunsuh.notion.site/Day69-2022-04-21-228f9c3daf544c3e9a8baae62fd73a7a) - `git pull`      
